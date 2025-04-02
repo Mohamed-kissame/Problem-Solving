@@ -1,0 +1,7 @@
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\bin\Debug\Problem 1.exe.config
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\bin\Debug\Problem 1.exe
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\bin\Debug\Problem 1.pdb
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\obj\Debug\Problem 1.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\obj\Debug\Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\obj\Debug\Problem 1.exe
+C:\Users\mkiss\OneDrive\Bureau\solve problem with c#\Problem 1\obj\Debug\Problem 1.pdb
