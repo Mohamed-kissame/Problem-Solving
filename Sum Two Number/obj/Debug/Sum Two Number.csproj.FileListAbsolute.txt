@@ -1,0 +1,7 @@
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\bin\Debug\Sum Two Number.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\bin\Debug\Sum Two Number.exe
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\bin\Debug\Sum Two Number.pdb
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\obj\Debug\Sum Two Number.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\obj\Debug\Sum Two Number.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\obj\Debug\Sum Two Number.exe
+C:\Users\mkiss\OneDrive\Bureau\Sum Two Number\obj\Debug\Sum Two Number.pdb

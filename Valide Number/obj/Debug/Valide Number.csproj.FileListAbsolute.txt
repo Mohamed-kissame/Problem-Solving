@@ -1,0 +1,7 @@
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\bin\Debug\Valide Number.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\bin\Debug\Valide Number.exe
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\bin\Debug\Valide Number.pdb
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\obj\Debug\Valide Number.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\obj\Debug\Valide Number.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\obj\Debug\Valide Number.exe
+C:\Users\mkiss\OneDrive\Bureau\Valide Number\obj\Debug\Valide Number.pdb
